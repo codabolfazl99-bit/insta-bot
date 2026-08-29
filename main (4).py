@@ -58,11 +58,11 @@ logger = logging.getLogger(__name__)
 # ------------------------------------------------------------------
 # Configuration — fill in your own values below
 # ------------------------------------------------------------------
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"          # from @BotFather
-ADMIN_ID = 0                                # your numeric Telegram ID, e.g. 123456789
-IG_USERNAME = "YOUR_INSTAGRAM_USERNAME"     # Instagram account used to fetch content
-IG_PASSWORD = "YOUR_INSTAGRAM_PASSWORD"     # its password
-FORCE_SUB_CHANNEL = "@your_channel_here"    # channel users must join, e.g. "@diaco_game1"
+BOT_TOKEN = "8926481190:AAGwlnx8qrJtyY6-_epbZwagf36OzQSRmYU"          # from @BotFather
+ADMIN_ID = 5888002025                               # your numeric Telegram ID, e.g. 123456789
+IG_USERNAME = "diaco.2006"     # Instagram account used to fetch content
+IG_PASSWORD = "09050243124"     # its password
+FORCE_SUB_CHANNEL = "https://t.me/diaco_game1"    # channel users must join, e.g. "@diaco_game1"
 
 FREE_DOWNLOAD_LIMIT = 5
 STARS_PRICE = 100
