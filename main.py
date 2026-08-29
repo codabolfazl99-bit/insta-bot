@@ -55,11 +55,11 @@ logger = logging.getLogger(__name__)
 # ------------------------------------------------------------------
 # Configuration
 # ------------------------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-ADMIN_ID = int(os.environ.get("ADMIN_ID", "0"))
-IG_USERNAME = os.environ.get("IG_USERNAME", "")
-IG_PASSWORD = os.environ.get("IG_PASSWORD", "")
-FORCE_SUB_CHANNEL = os.environ.get("FORCE_SUB_CHANNEL", "").strip()  # e.g. "@diaco_game1"
+BOT_TOKEN = os.environ.get("8926481190:AAGwlnx8qrJtyY6-_epbZwagf36OzQSRmYU", "")
+ADMIN_ID = int(os.environ.get("5888002025", "0"))
+IG_USERNAME = os.environ.get("diaco.2006", "")
+IG_PASSWORD = os.environ.get("09050243124", "")
+FORCE_SUB_CHANNEL = os.environ.get("https://t.me/diaco_game1", "").strip()  # e.g. "@diaco_game1"
 
 FREE_DOWNLOAD_LIMIT = int(os.environ.get("FREE_DOWNLOAD_LIMIT", "5"))
 STARS_PRICE = int(os.environ.get("STARS_PRICE", "100"))
